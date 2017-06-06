@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+RKViewTool::Renderer.copyright 'RK', 'All rights reserved.'
+```
 
 ## Development
 
